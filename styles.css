@@ -1,0 +1,17 @@
+body{
+    background-color: #d4475d;
+}
+
+li {
+    background-color: #fa6893;
+    color:bisque;
+}
+
+img {
+    height:auto;
+    width: 500;
+}
+.heading {
+    background-color: blueviolet;
+    color:aquamarine;
+}
