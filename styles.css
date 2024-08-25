@@ -1,3 +1,6 @@
+html{
+    box-sizing: border-box;
+}
 body{
     background-color: #d4475d;
 }
@@ -5,13 +8,33 @@ body{
 li {
     background-color: #fa6893;
     color:bisque;
+    width: 100px;
+    margin: 10px auto;
+    padding: 8px;
+    text-align: left;
+
 }
 
+a{
+    color: blanchedalmond;
+}
 img {
     height:auto;
     width: 500;
+    margin: auto;
+    display: block;
 }
 .heading {
     background-color: blueviolet;
     color:aquamarine;
+    text-align: center;
+    width: 200px;
+    margin:5px auto;
+}
+
+p{
+    text-align: center;
+    background-color: #da3;
+    margin: 10px auto;
+    width: 300px;
 }
